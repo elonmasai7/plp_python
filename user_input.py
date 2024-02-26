@@ -1,11 +1,11 @@
-# Asking for user's name
+# Ask for user name
 name = input("What is your name? ")
 
-# Asking for user's age
+# Ask for user age
 age = input("How old are you? ")
 
-# Asking for user's location
+# Ask for user location
 location = input("Where do you live? ")
 
-# Printing personalized message
+# Printing personal message
 print(f"Hello {name}, you are {age} years old and live in {location}.")
