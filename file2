@@ -1,0 +1,16 @@
+fun main() {
+    // Ask for user name
+    print("What is your name? ")
+    val name = readLine()
+
+    // Ask for user age
+    print("How old are you? ")
+    val age = readLine()
+
+    // Ask for user location
+    print("Where do you live? ")
+    val location = readLine()
+
+    // Printing personal message
+    println("Hello $name, you are $age years old and live in $location.")
+}
